@@ -33,3 +33,12 @@ body{
     background: url('../imagens/frame-iphone.png') no-repeat;
     background-size: contain;
  }
+
+ iframe#cel{
+    position: relative;
+    top: 70px;
+    left: 19px;
+    width: 235px;
+    height: 414px;
+    border-radius: 3px;
+ }
