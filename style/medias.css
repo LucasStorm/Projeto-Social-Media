@@ -68,3 +68,21 @@
             font-weight: bold;
             background-color: rgb(0, 125, 200);
         }
+
+        a.github{
+            display: block;
+            background-color: rgb(0, 0, 0);
+            font-size: 0.8em;
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            padding: 10px;
+            border-radius: 10px;
+        }
+
+        a.github:hover{
+            transition: 0.2s;
+            font-size: 0.9em;
+            font-weight: bold;
+            background-color: rgb(17, 15, 15);
+        }
