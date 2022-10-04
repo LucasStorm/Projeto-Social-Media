@@ -62,5 +62,5 @@ body{
  img:hover{
     transition: 0.1s;
     border: 6px solid transparent;
-    transform: translate(-15px);
+    transform: translate(-10px);
  }
