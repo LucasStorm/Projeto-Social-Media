@@ -50,3 +50,21 @@
             font-size: 0.9em;
             font-weight: bold;
         }
+
+        a.twitter{
+            display: block;
+            background-color: rgb(0, 172, 238);
+            font-size: 0.8em;
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            padding: 10px;
+            border-radius: 10px;
+        }
+
+        a.twitter:hover{
+            transition: 0.2s;
+            font-size: 0.9em;
+            font-weight: bold;
+            background-color: rgb(0, 125, 200);
+        }
